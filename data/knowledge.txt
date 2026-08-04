@@ -1,0 +1,11 @@
+Ollama is used to run Large Language Models locally.
+
+Whisper converts speech into text.
+
+LLaVA is a multimodal model that can analyze images.
+
+Phi-3 is a Small Language Model developed by Microsoft.
+
+Bosch Model Farm provides enterprise AI models.
+
+Qwen3 is an open-source language model.
