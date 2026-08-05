@@ -1,0 +1,27 @@
+RAG stands for Retrieval Augmented Generation.
+
+RAG works by retrieving relevant information from a knowledge base and providing it to a language model before generating an answer.
+
+ChromaDB is a vector database used to store embeddings and perform semantic search.
+
+LangChain is a framework used for building LLM-powered applications.
+
+LangGraph is a framework used for building stateful agentic workflows.
+
+Agentic AI refers to AI systems that can reason, choose tools, perform actions, and make decisions autonomously.
+
+Ollama is a platform for running large language models locally on a computer.
+
+Phi-3 is a Small Language Model developed by Microsoft.
+
+Qwen3 is a language model that can be run locally using Ollama.
+
+Vector embeddings convert text into numerical representations that can be compared using similarity search.
+
+Semantic search finds information based on meaning rather than exact keyword matching.
+
+Bosch Model Farm provides access to enterprise language models for AI applications.
+
+Retrieval systems improve answer quality by providing external context to language models.
+
+Agents can decide when to use a calculator, knowledge base, API, or another tool to solve a task.
