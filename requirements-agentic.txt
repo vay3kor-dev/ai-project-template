@@ -1,0 +1,9 @@
+chromadb
+langchain
+langchain-chroma
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langgraph
+ollama
+python-dotenv
