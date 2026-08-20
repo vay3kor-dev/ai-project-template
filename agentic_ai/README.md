@@ -93,7 +93,7 @@ agentic_ai/
 ## Install Dependencies
 
 ```powershell
-pip install -r requirements.txt
+pip install -r requirements-agentic.txt
 ```
 
 ---
